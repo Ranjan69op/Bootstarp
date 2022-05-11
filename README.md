@@ -1,2 +1,2 @@
-# Bootstarp
-make this only using Bootstrap
+# Bootstrap
+I make this using HTML,CSS and Bootstrap 
